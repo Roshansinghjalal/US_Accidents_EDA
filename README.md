@@ -50,7 +50,7 @@ The notebook investigates the following questions:
    cd US-Accidents-EDA
 
 ## 🧑‍💻Author
-Roshan Singh Jalal
-💼 Linkedin - https://www.linkedin.com/feed/
-📧 Email: roshansinghjalal35@gmail.com
+**Roshan Singh Jalal**
+- 💼 Linkedin - https://www.linkedin.com/feed/
+- 📧 Email: roshansinghjalal35@gmail.com
 
