@@ -51,6 +51,6 @@ The notebook investigates the following questions:
 
 ## 🧑‍💻Author
 **Roshan Singh Jalal**
-- 💼 Linkedin - https://www.linkedin.com/feed/
+- 💼 Linkedin: https://www.linkedin.com/feed/
 - 📧 Email: roshansinghjalal35@gmail.com
 
