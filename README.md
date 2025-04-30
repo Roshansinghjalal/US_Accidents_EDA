@@ -1,6 +1,6 @@
 # 🚗 US Accidents - Exploratory Data Analysis
 
-This project explores the [US Accidents dataset](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents), which contains over 2 million accident records across the United States. The dataset is rich with information about location, time, weather conditions, and traffic features, making it useful for identifying patterns that could help in accident prevention and traffic policy-making.
+This project explores the [US Accidents dataset] , which contains over 2 million accident records across the United States. The dataset is rich with information about location, time, weather conditions, and traffic features, making it useful for identifying patterns that could help in accident prevention and traffic policy-making.
 
 > ⚠️ Note: The dataset **does not include data from New York**, and it has **missing records from March to August** in some years.
 
