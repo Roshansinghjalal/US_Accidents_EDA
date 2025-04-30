@@ -49,4 +49,8 @@ The notebook investigates the following questions:
    git clone https://github.com/YOUR_USERNAME/US-Accidents-EDA.git
    cd US-Accidents-EDA
 
+## 🧑‍💻Author
+Roshan Singh Jalal
+💼 Linkedin - https://www.linkedin.com/feed/
+📧 Email: roshansinghjalal35@gmail.com
 
